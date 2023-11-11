@@ -40,12 +40,15 @@ A passionate **Frontend Developer** from Vietnam
 <br/>
 
 ### Others
+<img align="left" alt="VSCode" title="VSCode" src="https://code.visualstudio.com/favicon.ico" width="28" height="28"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="28" height="28"/>
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="28" height="28"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="28" height="28"/>
+
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="28" height="28"/>
+
 <br/>
 
 ### My GitHub Stats
