@@ -53,7 +53,7 @@ A passionate **Frontend Developer** from Vietnam
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdotnhsang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
-<a href="https://fb.com/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imdotnhsang" height="28" width="28" /></a>&nbsp;
-<a href="https://linkedin.com/in/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdotnhsang" height="28" width="28" /></a>
+<a href="https://fb.com/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imdotnhsang" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdotnhsang" height="20" width="20" /></a>
 
 
