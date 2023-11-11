@@ -1,4 +1,4 @@
-## Hi, I'm Leo 🤟
+### Hi, I'm Leo 🤟
 A passionate **Frontend Developer** from Vietnam
 - 🌱 I’m currently learning **update-later**
 - 👨‍💻 All of my projects are available at [portfolio-link-update-later](portfolio-link)
