@@ -48,11 +48,11 @@ A passionate **Frontend Developer** from Vietnam
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="28" height="28"/>
 <br/>
 
-## My GitHub Stats
+### My GitHub Stats
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=imdotnhsang&show_icons=true&theme=buefy&show_icons=true&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdotnhsang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect With Me
+### Connect With Me
 <a href="https://fb.com/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imdotnhsang" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/imdotnhsang" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdotnhsang" height="20" width="20" /></a>
 
