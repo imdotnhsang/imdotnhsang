@@ -1,8 +1,8 @@
 ## Hi, I'm Leo 🤟
 A passionate **Frontend Developer** from Vietnam
 - 🌱 I’m currently learning **update-later**
-- 👨‍💻 All of my projects are available at [portfolio-link-update-later](portfolio link)
-- 📄 Know about my experiences [resume-link-update-later](resume link)
+- 👨‍💻 All of my projects are available at [portfolio-link-update-later](portfolio-link)
+- 📄 Know about my experiences [resume-link-update-later](resume-link)
 
 ### Programming Languages
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/>
