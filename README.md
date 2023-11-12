@@ -47,9 +47,7 @@ A passionate **Frontend Developer** from Vietnam
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="28" height="28"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="28" height="28"/>
-
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/>
-
 <br/>
 
 ### My GitHub Stats
