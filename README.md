@@ -34,25 +34,24 @@ A passionate **Frontend Developer** from Vietnam
 <br/>
 
 ### Mobile App Development
-<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="28" height="28"/>
+<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="28" height="28" title="React Native"/>
 <br/>
 
 ### Testing
-<img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="28" height="28"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="28" height="28"/>
+<img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="28" height="28" title="Cypress"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="28" height="28" title="Jest Testing"/>
+<img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="28" height="28" title="Selenium"/>
 <br/>
 
 ### Others
 <img align="left" alt="VSCode" title="VSCode" src="https://code.visualstudio.com/favicon.ico" width="28" height="28"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="28" height="28"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="28" height="28"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="28" height="28"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="28" height="28"/>
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="Adobe XD" width="28" height="28"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28" title="Git"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28" title="Linux"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="28" height="28" title="Heroku"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="AWS" width="28" height="28"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="28" height="28"/>
 <br/>
 
 ### My GitHub Stats
