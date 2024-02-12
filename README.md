@@ -1,7 +1,7 @@
 ### Hi, I'm Leo 🤟
 A passionate **Frontend Developer** from Vietnam
 - 🌱 I’m currently learning **update-later**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.imdotnhsang.dev/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://www.imdotnhsang.dev/)
 - 📄 Know about my experiences [resume-link-update-later](resume-link)
 
 ### Programming Languages
