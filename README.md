@@ -20,7 +20,7 @@ A passionate **Frontend Developer** from Vietnam
 ### Backend Development
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="28" height="28"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="28" height="28"/>
-<img align="left" src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="28" height="28"/>
+<img align="left" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="28" height="28"/>
 <img align="left" alt="postgre-sql" width="28" height="28" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <br/>
 
